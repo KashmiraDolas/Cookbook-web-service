@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/CookBook_handler/FindReceipes?WSDL" uri="xml-resources/web-service-references/FindReceipes/wsdl/localhost_8080/CookBook_handler/FindReceipes.wsdl"/>
+    <system systemId="http://localhost:8080/CookBook_handler/FindReceipes?xsd=1" uri="xml-resources/web-service-references/FindReceipes/wsdl/localhost_8080/CookBook_handler/FindReceipes.xsd_1.xsd"/>
+</catalog>
