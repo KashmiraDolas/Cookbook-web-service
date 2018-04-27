@@ -45,8 +45,11 @@ The web service ‘CookBook_Handler’ is created as follows:
   The Server side message handler is used to logs operation invocation. A seesionId is generated at every service invocation from client side and is stored in a database. This helps establish the coordination protocol at server side to ensure correct flow of operations and to avoid exceptions.
 
 
-IMPLEMENTATION & OUTPUT
-The flow of the web service is descripted in the design phase. 
+## IMPLEMENTATION & OUTPUT
+The flow of the web service is descripted in the design phase.  ![alt text][logo]
+
+
+
 According to which, the 1st operation should always occur before 2nd or 3rd.
 
 Correct flow output:
@@ -110,6 +113,9 @@ Follow the instructions to set the proeject running.
 
 7. 
 	Flow the instructions during execution
+	
+	
+[logo]: https://github.com/KashmiraDolas/Cookbook-web-service/blob/master/images/design.png 
 	
 
 
